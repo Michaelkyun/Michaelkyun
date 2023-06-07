@@ -1,4 +1,9 @@
+<h1 align="center">Hi 👋, I'm John Michael Camara</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
+
+- 🔭 I’m currently working on [Web-based Barangay Management System](example.project.com)
+
+- ⚡ Fun fact **Haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
